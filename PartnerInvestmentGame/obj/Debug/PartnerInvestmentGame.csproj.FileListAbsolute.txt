@@ -1,0 +1,7 @@
+C:\Users\mcnei\Desktop\ElevenFiftyProjects\100SD\PartnerInvestmentGame\PartnerInvestmentGame\bin\Debug\PartnerInvestmentGame.exe.config
+C:\Users\mcnei\Desktop\ElevenFiftyProjects\100SD\PartnerInvestmentGame\PartnerInvestmentGame\bin\Debug\PartnerInvestmentGame.exe
+C:\Users\mcnei\Desktop\ElevenFiftyProjects\100SD\PartnerInvestmentGame\PartnerInvestmentGame\bin\Debug\PartnerInvestmentGame.pdb
+C:\Users\mcnei\Desktop\ElevenFiftyProjects\100SD\PartnerInvestmentGame\PartnerInvestmentGame\obj\Debug\PartnerInvestmentGame.csproj.AssemblyReference.cache
+C:\Users\mcnei\Desktop\ElevenFiftyProjects\100SD\PartnerInvestmentGame\PartnerInvestmentGame\obj\Debug\PartnerInvestmentGame.csproj.CoreCompileInputs.cache
+C:\Users\mcnei\Desktop\ElevenFiftyProjects\100SD\PartnerInvestmentGame\PartnerInvestmentGame\obj\Debug\PartnerInvestmentGame.exe
+C:\Users\mcnei\Desktop\ElevenFiftyProjects\100SD\PartnerInvestmentGame\PartnerInvestmentGame\obj\Debug\PartnerInvestmentGame.pdb
